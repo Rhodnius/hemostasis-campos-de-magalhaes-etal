@@ -1,0 +1,40 @@
+
+### All tests were conducted at the HUGG Immunology and AIDS Research Laboratory.
+
+
+#### Variables description
+
+* group: (HIVpos = HIV+/ HIVneg = HIV-)
+
+* Age: Age of individuals (years)
+
+* GENDER: gender of individuals	
+
+* APTT: activated partial thromboplastin time (seconds)
++ (photo-optic detection, in automated coagulometer (ELITE PRO ACL System using SynthASil reagent, HemosIL®, Instrumentation Laboratory, U.S.A). Reference values: 25.4 - 38.4 seconds)
+
+* PT: Prothrombin time activity	(% of activity)
++ (photo-optic detection, in an automated coagulometer ELITE PRO ACL System, using RecombiPlasTin 2G HemosIL ®, Instrumentation Laboratory, U.S.A. Reference values: 9.1 -12.1 seconds.
+
+* INR: International normalized ratio (ratio)
++ (photo-optic detection, in an automated coagulometer ELITE PRO ACL System, using RecombiPlasTin 2G HemosIL ®, Instrumentation Laboratory, U.S.A. Reference values: 9.1 -12.1 seconds.
+
+* FG: Fibrinogen (mg/dL)
++ (photo-optic detection in automated coagulometer ELITE PRO ACL System using RecombiPlasTin 2G HemosIL ®, Instrumentation Laboratory, U.S.A). Reference values : 310 – 430 mg/dl.
+
+* D_D: D-dimers (ng/mL FEU)
++ Immunoturbidimetry method, using the LiaTest (Stago Diagnostic, France). Reference values: less than 550.0 ng / mL FEU.
+
+* WWF: von Willebrand factor (% activity)
++ method of latex immunoturbidimetry, (STA® - Liatest® VWF: A, Diagnostica Stago, France). Reference values: 48-239 % of activity.
+
+* AT: Antithrombin (% activity)
++ chromogenic method, (Stachrom® ATIII, Diagnostica Stago, France). Reference values: 83-128 % of activity.
+
+* VL_ Viral load (D = Detectable / ND = Not detectable)
++ HIV viral load determination by Abbott RealTime HIV-1(NucliSens® HIV-1 QT, Biomérieux, Boxtel, Holland)
+
+* CD4: T CD4+ cell count (LOW = <400 Cells/mm3 / HIGH = <400 Cells/mm3)
++ CD4+ count by flow cytometry with BD FACSCount TM Controls reagent (BD Biosciences Immunocytometry Systems, San Jose, California, United States of America, [USA])
+
+* PI: protease inhibitors use (YES/NO)
