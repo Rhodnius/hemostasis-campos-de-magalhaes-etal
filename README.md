@@ -2,7 +2,7 @@
 
 *raw data for submission of the manuscript entitled "The Hemostasis in Elderly Patients with Human Immunodeficiency Virus Infection (HIV) - a cross-sectional study*
 
-Authors: Marilza Campos de Magalhães^1 , Juan Camilo Sánchez-Arcila^2 , Ana Carolina de Brito Lyra^1 , Luiz Felipe
+Authors: Marilza Campos de Magalhães^1^ , Juan Camilo Sánchez-Arcila^2 , Ana Carolina de Brito Lyra^1 , Luiz Felipe
 Bonfleur Long^1 , Isabelle Vasconcellos de Souza^1 , Adilson José de Almeida^1,2&† , Fernando Raphael de
 Almeida Ferry^1 , Soniza Vieira Alves Leon^1&*.
 
