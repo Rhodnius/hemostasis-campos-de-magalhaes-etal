@@ -1,6 +1,10 @@
 
 ### All tests were conducted at the HUGG Immunology and AIDS Research Laboratory.
 
+#### File description
+
+* rawdata1_camposdemagalhaes_etal.csv (contains data of all hemostais variables in all studied individuals)
+* rawdata2_camposdemagalhaes_etal.csv (contains data of all hemostais variables, CD4high/low, Viral load, and protease inhibitors use in HIV+ individuals)
 
 #### Variables description
 
